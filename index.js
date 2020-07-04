@@ -1,4 +1,4 @@
-function getFirsSelector(selector) {
+function getFirstSelector(selector) {
   return document.querySelector(selector)
 }
 
